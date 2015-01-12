@@ -1,0 +1,5 @@
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\PrintLongSequenceOfMembers\bin\Debug\PrintLongSequenceOfMembers.exe.config
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\PrintLongSequenceOfMembers\obj\Debug\PrintLongSequenceOfMembers.exe
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\PrintLongSequenceOfMembers\obj\Debug\PrintLongSequenceOfMembers.pdb
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\PrintLongSequenceOfMembers\bin\Debug\PrintLongSequenceOfMembers.exe
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\PrintLongSequenceOfMembers\bin\Debug\PrintLongSequenceOfMembers.pdb

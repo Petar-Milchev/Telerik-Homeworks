@@ -1,0 +1,5 @@
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\4.PrintFirstAndLastName\bin\Debug\4.PrintFirstAndLastName.exe.config
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\4.PrintFirstAndLastName\bin\Debug\4.PrintFirstAndLastName.exe
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\4.PrintFirstAndLastName\bin\Debug\4.PrintFirstAndLastName.pdb
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\4.PrintFirstAndLastName\obj\Debug\4.PrintFirstAndLastName.exe
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\4.PrintFirstAndLastName\obj\Debug\4.PrintFirstAndLastName.pdb

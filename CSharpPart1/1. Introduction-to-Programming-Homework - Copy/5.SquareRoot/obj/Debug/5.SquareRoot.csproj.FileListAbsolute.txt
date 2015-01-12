@@ -1,0 +1,5 @@
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\5.SquareRoot\bin\Debug\5.SquareRoot.exe.config
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\5.SquareRoot\bin\Debug\5.SquareRoot.exe
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\5.SquareRoot\bin\Debug\5.SquareRoot.pdb
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\5.SquareRoot\obj\Debug\5.SquareRoot.exe
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\5.SquareRoot\obj\Debug\5.SquareRoot.pdb

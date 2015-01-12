@@ -1,0 +1,5 @@
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\9.AgeAfterTenYears\bin\Debug\9.AgeAfterTenYears.exe.config
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\9.AgeAfterTenYears\bin\Debug\9.AgeAfterTenYears.exe
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\9.AgeAfterTenYears\bin\Debug\9.AgeAfterTenYears.pdb
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\9.AgeAfterTenYears\obj\Debug\9.AgeAfterTenYears.exe
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\9.AgeAfterTenYears\obj\Debug\9.AgeAfterTenYears.pdb

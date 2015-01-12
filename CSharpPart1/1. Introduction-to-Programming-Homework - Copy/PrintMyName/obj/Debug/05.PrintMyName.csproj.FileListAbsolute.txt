@@ -1,0 +1,3 @@
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\PrintMyName\bin\Debug\PrintMyName.exe.config
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\PrintMyName\obj\Debug\PrintMyName.exe
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\PrintMyName\obj\Debug\PrintMyName.pdb

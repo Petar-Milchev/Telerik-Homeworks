@@ -1,0 +1,3 @@
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\1. Introduction-to-Programming-Homework - Copy\PrintNumbers\bin\Debug\PrintNumbers.exe.config
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\1. Introduction-to-Programming-Homework - Copy\PrintNumbers\obj\Debug\PrintNumbers.exe
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\1. Introduction-to-Programming-Homework - Copy\PrintNumbers\obj\Debug\PrintNumbers.pdb

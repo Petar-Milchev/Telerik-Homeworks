@@ -1,0 +1,5 @@
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\6.PrintASequence\bin\Debug\6.PrintASequence.exe.config
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\6.PrintASequence\obj\Debug\6.PrintASequence.exe
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\6.PrintASequence\obj\Debug\6.PrintASequence.pdb
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\6.PrintASequence\bin\Debug\6.PrintASequence.exe
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\6.PrintASequence\bin\Debug\6.PrintASequence.pdb

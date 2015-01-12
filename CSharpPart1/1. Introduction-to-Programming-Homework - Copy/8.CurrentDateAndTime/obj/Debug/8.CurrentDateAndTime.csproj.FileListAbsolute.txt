@@ -1,0 +1,5 @@
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\8.CurrentDateAndTime\bin\Debug\8.CurrentDateAndTime.exe.config
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\8.CurrentDateAndTime\bin\Debug\8.CurrentDateAndTime.exe
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\8.CurrentDateAndTime\bin\Debug\8.CurrentDateAndTime.pdb
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\8.CurrentDateAndTime\obj\Debug\8.CurrentDateAndTime.exe
+D:\programi visual studio\3 tema\Zadachi ot uchebnika\MyFirstSolution\8.CurrentDateAndTime\obj\Debug\8.CurrentDateAndTime.pdb
