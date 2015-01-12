@@ -1,0 +1,5 @@
+D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe.config
+D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.exe
+D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\07.QuotesInStrings\bin\Debug\07.QuotesInStrings.pdb
+D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.exe
+D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\07.QuotesInStrings\obj\Debug\07.QuotesInStrings.pdb
