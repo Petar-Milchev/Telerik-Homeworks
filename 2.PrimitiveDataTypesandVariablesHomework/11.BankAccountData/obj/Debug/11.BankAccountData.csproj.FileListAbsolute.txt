@@ -1,5 +1,0 @@
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\11.BankAccountData\bin\Debug\11.BankAccountData.exe.config
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\11.BankAccountData\bin\Debug\11.BankAccountData.exe
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\11.BankAccountData\bin\Debug\11.BankAccountData.pdb
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\11.BankAccountData\obj\Debug\11.BankAccountData.exe
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\11.BankAccountData\obj\Debug\11.BankAccountData.pdb

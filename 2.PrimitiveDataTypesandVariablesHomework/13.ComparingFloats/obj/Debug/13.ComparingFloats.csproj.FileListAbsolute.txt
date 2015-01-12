@@ -1,5 +1,0 @@
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe.config
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\13.ComparingFloats\bin\Debug\13.ComparingFloats.exe
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\13.ComparingFloats\bin\Debug\13.ComparingFloats.pdb
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\13.ComparingFloats\obj\Debug\13.ComparingFloats.exe
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\13.ComparingFloats\obj\Debug\13.ComparingFloats.pdb

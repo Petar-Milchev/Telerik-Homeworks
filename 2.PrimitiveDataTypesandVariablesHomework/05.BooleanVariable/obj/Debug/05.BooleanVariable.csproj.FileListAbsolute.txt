@@ -1,6 +1,0 @@
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe.config
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\05.BooleanVariable\bin\Debug\05.BooleanVariable.exe
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\05.BooleanVariable\bin\Debug\05.BooleanVariable.pdb
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\05.BooleanVariable\obj\Debug\05.BooleanVariable.csprojResolveAssemblyReference.cache
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\05.BooleanVariable\obj\Debug\05.BooleanVariable.exe
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\05.BooleanVariable\obj\Debug\05.BooleanVariable.pdb

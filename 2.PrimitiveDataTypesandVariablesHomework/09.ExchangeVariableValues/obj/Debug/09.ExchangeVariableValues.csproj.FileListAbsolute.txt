@@ -1,6 +1,0 @@
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe.config
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.exe
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\09.ExchangeVariableValues\bin\Debug\09.ExchangeVariableValues.pdb
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.csprojResolveAssemblyReference.cache
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.exe
-D:\Programirane ot Telerik\Domashni\2.PrimitiveDataTypesandVariablesHomework\09.ExchangeVariableValues\obj\Debug\09.ExchangeVariableValues.pdb
